@@ -1,0 +1,11 @@
+{
+    "description": "beler",
+    "image": "https://gateway.pinata.cloud/ipfs/Qme1aSL5aeZ3PmJdeBnY9NaQNCucGb1VxKJ7sirpc9Ckqe",
+    "name": "beler",
+    "attributes":[
+        {
+            "trait_type" : "cars",
+            "value": "classic"
+        }
+    ]
+}

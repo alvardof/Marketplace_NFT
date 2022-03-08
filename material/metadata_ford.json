@@ -1,0 +1,11 @@
+{
+    "description": "ford",
+    "image": "https://gateway.pinata.cloud/ipfs/QmUiZsyJAmD8MojjU2jqdbic7ZXwEAE2oKMLo8h227vFVQ",
+    "name": "ford",
+    "attributes":[
+        {
+            "trait_type" : "cars",
+            "value": "classic"
+        }
+    ]
+}

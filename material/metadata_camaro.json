@@ -1,0 +1,11 @@
+{
+    "description": "camaro",
+    "image": "https://gateway.pinata.cloud/ipfs/QmPjPVwg9gwtfA3AtiQbVq8nVKNjzxRUWr5djgZ7eY4GKb",
+    "name": "camaro",
+    "attributes":[
+        {
+            "trait_type" : "cars",
+            "value": "classic"
+        }
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "description": "maverik",
+    "image": "https://gateway.pinata.cloud/ipfs/QmfGajktRwfbsZpdtebWsFaCy2t2czcB2qtm4adVsWE38v",
+    "name": "maverik",
+    "attributes":[
+        {
+            "trait_type" : "cars",
+            "value": "classic"
+        }
+    ]
+}

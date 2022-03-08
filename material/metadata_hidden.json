@@ -1,0 +1,11 @@
+{
+    "description": "Car hidden",
+    "image": "https://gateway.pinata.cloud/ipfs/QmRFmfCeW3jgAz7AxprqQh84MxSC9n8TdkkbcM5exZHh1d",
+    "name": "Car hidden",
+    "attributes":[
+        {
+            "trait_type" : "cars",
+            "value": "classic"
+        }
+    ]
+}
