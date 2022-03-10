@@ -28,4 +28,9 @@ contract TokenERC1155 is Initializable, ERC1155Upgradeable, OwnableUpgradeable {
     } 
 
 
+    function setApprovalForAll(address operator, bool approved) public virtual override {
+        _setApprovalForAll(_msgSender(), operator, approved);
+    }
+
+
 }

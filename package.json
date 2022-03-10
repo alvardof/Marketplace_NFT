@@ -23,7 +23,12 @@
     "solhint": "^3.3.7",
     "solidity-coverage": "^0.7.20"
   },
+  "scripts": {
+    "compile" : "npx hardhat compile",
+    "test" : "npx hardhat test --network rinkeby"    
+  },
   "dependencies": {
+    "@chainlink/contracts": "^0.4.0",
     "@openzeppelin/contracts": "^4.5.0",
     "@openzeppelin/contracts-upgradeable": "^4.5.2"
   }
